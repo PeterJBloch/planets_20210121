@@ -1,2 +1,4 @@
+Pluto is so a planet!
+
 Another file example for staging, committing and pushing to remote.
 GitHub is cool :P
